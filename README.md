@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/icche-ghuri/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Icche Ghuri](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/icche-ghuri/) |
+| **Get License** | [Official Music Licensing for Icche Ghuri](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/icche-ghuri/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cbd95be9d55061602e1bf38cd13b230f2ce1d32a4e35b37fa35b60ca86361544` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Icche Ghuri
+
+This log tracks the cryptographic history and versioning for the song **Icche Ghuri** (icche-ghuri).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:57:12.499893 | `v1` | `cbd95be9d55061602e1bf38cd13b230f2ce1d32a4e35b37fa35b60ca86361544` | `4e2bf79d55d67596fd6457f2d00370717a4f64f3fc50cf79fe88e12b5962fdaa` | `2026-05-28_icche-ghuri-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
