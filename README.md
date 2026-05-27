@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/icche-ghuri/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Icche Ghuri](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/icche-ghuri/) |
+| **Get License** | [Commercial Licensing for Icche Ghuri](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/icche-ghuri/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই রাতের মায়ায় হারিয়েছি আজ
+> তোমার চোখে দেখছি আমার হৃদয়ের কাজ
+> ইচ্ছে ঘুড়ি উড়ছে দেখো মেঘের আড়ালে
+> নীরব প্রেমে মন ভিজে যায় তোমার ছোঁয়া পেলে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
